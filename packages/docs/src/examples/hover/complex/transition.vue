@@ -6,7 +6,6 @@
       max-width="600"
     >
       <v-img
-        :aspect-ratio="16/9"
         src="https://cdn.vuetifyjs.com/images/cards/kitchen.png"
       >
         <v-expand-transition>
